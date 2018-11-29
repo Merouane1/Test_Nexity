@@ -2,9 +2,9 @@ package test;
 
 public class TestClass {
 
-int i = 123; 
+ 
 public void main(String args) {
-	
+int i = 123;
 System.out.println("my number from git plateforme : "+i);
 }
 
